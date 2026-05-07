@@ -117,7 +117,7 @@ anti-distill/
 
 ### 社区
 
-<img width="939" height="1491" alt="community" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
+<img width="235" height="373" alt="community" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
 
 ---
 
@@ -234,7 +234,7 @@ anti-distill/
 
 ### Community
 
-<img width="939" height="1491" alt="community" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
+<a href="https://discord.gg/aD7mWSu5RP"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 ---
 
